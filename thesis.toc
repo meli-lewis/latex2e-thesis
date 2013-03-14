@@ -1,0 +1,28 @@
+\contentsline {chapter}{Introduction}{1}{chapter*.8}
+\contentsline {section}{\numberline {0.1}The Neural Basis of Error Monitoring and Defensive Motivation}{1}{section.0.1}
+\contentsline {subsection}{\numberline {0.1.1}Error Monitoring}{1}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {0.1.2}Defensive Motivation}{1}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {0.1.3}The ERN and Startle}{2}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {0.1.4}State versus Trait Anxiety}{2}{subsection.0.1.4}
+\contentsline {section}{\numberline {0.2}Open Science}{4}{section.0.2}
+\contentsline {subsection}{\numberline {0.2.1}Historical Precedence}{4}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {0.2.2}Open Science Collaboration}{5}{subsection.0.2.2}
+\contentsline {subsection}{\numberline {0.2.3}The Reproducibility Project}{5}{subsection.0.2.3}
+\contentsline {chapter}{Chapter 1: The Replication}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Methods}{7}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}The Task}{7}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Errors and EEG}{7}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Startle and EMG}{8}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Results}{8}{section.1.2}
+\contentsline {section}{\numberline {1.3}Discussion}{9}{section.1.3}
+\contentsline {chapter}{Chapter 2: The Extension}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Methods}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Results}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Discussion}{12}{section.2.3}
+\contentsline {chapter}{Chapter 3: General Discussion}{13}{chapter.3}
+\contentsline {chapter}{Chapter 4: The Future of Open Science}{15}{chapter.4}
+\contentsline {chapter}{Conclusion}{17}{chapter*.9}
+\contentsline {section}{\numberline {4.1}More info}{17}{section.4.1}
+\contentsline {chapter}{Appendix A: The First Appendix}{19}{appendix.A}
+\contentsline {chapter}{Appendix B: The Second Appendix, for Fun}{21}{appendix.B}
+\contentsline {chapter}{References}{23}{appendix*.10}

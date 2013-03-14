@@ -1,0 +1,168 @@
+\begin{thebibliography}{23}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Andrews \& Thomson(2009)}]{andrews_bright_2009}
+Andrews, P.~W., \& Thomson, J.~A. (2009).
+\newblock The bright side of being blue: Depression as an adaptation for
+  analyzing complex problems.
+\newblock {\em Psychological Review\/}, {\em 116\/}(3), 620--654.
+\newline\urlprefix\url{http://doi.apa.org/getdoi.cfm?doi=10.1037/a0016242}
+
+\bibitem[{Aron et~al.(2004)Aron, Robbins, \& Poldrack}]{aron_inhibition_2004}
+Aron, A.~R., Robbins, T.~W., \& Poldrack, R.~A. (2004).
+\newblock Inhibition and the right inferior frontal cortex.
+\newblock {\em Trends in Cognitive Sciences\/}, {\em 8\/}(4), 170--177.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S1364661304000531}
+
+\bibitem[{Bieling et~al.(1998)Bieling, Antony, \& Swinson}]{bieling_state_1998}
+Bieling, P.~J., Antony, M.~M., \& Swinson, R.~P. (1998).
+\newblock The state--trait anxiety inventory, trait version: structure and
+  content re-examined.
+\newblock {\em Behaviour Research and Therapy\/}, {\em 36\/}(7-8), 777--788.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0005796798000230}
+
+\bibitem[{Botvinick(2007)}]{botvinick_conflict_2007}
+Botvinick, M.~M. (2007).
+\newblock Conflict monitoring and decision making: reconciling two perspectives
+  on anterior cingulate function.
+\newblock {\em Cognitive, affective \& behavioral neuroscience\/}, {\em
+  7\/}(4), 356--366.
+\newblock {PMID:} 18189009.
+
+\bibitem[{Bush et~al.(2000)Bush, Luu, \& Posner}]{bush_cognitive_2000}
+Bush, G., Luu, P., \& Posner, M.~I. (2000).
+\newblock Cognitive and emotional influences in anterior cingulate cortex.
+\newblock {\em Trends in Cognitive Sciences\/}, {\em 4\/}(6), 215--222.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S1364661300014832}
+
+\bibitem[{Carpenter(2012)}]{carpenter_psychology_2012}
+Carpenter, S. (2012).
+\newblock Psychology's bold initiative.
+\newblock {\em Science\/}, {\em 335\/}(6076), 1558--1561.
+\newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.335.6076.1558}
+
+\bibitem[{Corr(2004)}]{corr_reinforcement_2004}
+Corr, P.~J. (2004).
+\newblock Reinforcement sensitivity theory and personality.
+\newblock {\em Neuroscience and biobehavioral reviews\/}, {\em 28\/}(3),
+  317--332.
+\newblock {PMID:} 15225974.
+
+\bibitem[{Endler \& Kocovski(2001)}]{endler_state_2001}
+Endler, N.~S., \& Kocovski, N.~L. (2001).
+\newblock State and trait anxiety revisited.
+\newblock {\em Journal of Anxiety Disorders\/}, {\em 15\/}(3), 231--245.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0887618501000603}
+
+\bibitem[{Falkenstein et~al.(1991)Falkenstein, Hohnsbein, Hoormann, \&
+  Blanke}]{falkenstein_effects_1991}
+Falkenstein, M., Hohnsbein, J., Hoormann, J., \& Blanke, L. (1991).
+\newblock Effects of crossmodal divided attention on late {ERP} components.
+  {II.} error processing in choice reaction tasks.
+\newblock {\em Electroencephalography and clinical neurophysiology\/}, {\em
+  78\/}(6), 447--455.
+\newblock {PMID:} 1712280.
+
+\bibitem[{Fang \& Casadevall(2011)}]{fang_retracted_2011}
+Fang, F.~C., \& Casadevall, A. (2011).
+\newblock Retracted science and the retraction index.
+\newblock {\em Infection and Immunity\/}, {\em 79\/}(10), 3855--3859.
+\newline\urlprefix\url{http://iai.asm.org/cgi/doi/10.1128/IAI.05661-11}
+
+\bibitem[{Gratton et~al.(1983)Gratton, Coles, \& Donchin}]{gratton_new_1983}
+Gratton, G., Coles, M.~G., \& Donchin, E. (1983).
+\newblock A new method for off-line removal of ocular artifact.
+\newblock {\em Electroencephalography and clinical neurophysiology\/}, {\em
+  55\/}(4), 468--484.
+\newblock {PMID:} 6187540.
+
+\bibitem[{Grillon et~al.(1993)Grillon, Ameli, Foot, \&
+  Davis}]{grillon_fear_1993}
+Grillon, C., Ameli, R., Foot, M., \& Davis, M. (1993).
+\newblock Fear-potentiated startle: relationship to the level of state/trait
+  anxiety in healthy subjects.
+\newblock {\em Biological psychiatry\/}, {\em 33\/}(8-9), 566--574.
+\newblock {PMID:} 8329489.
+
+\bibitem[{Hajcak(2012)}]{hajcak_what_2012}
+Hajcak, G. (2012).
+\newblock What we've learned from mistakes: Insights from error-related brain
+  activity.
+\newblock {\em Current Directions in Psychological Science\/}, {\em 21\/}(2),
+  101--106.
+\newline\urlprefix\url{http://cdp.sagepub.com/lookup/doi/10.1177/0963721412436809}
+
+\bibitem[{Hajcak \& Foti(2008)}]{hajcak_errors_2008}
+Hajcak, G., \& Foti, D. (2008).
+\newblock Errors are aversive: defensive motivation and the error-related
+  negativity.
+\newblock {\em Psychological science\/}, {\em 19\/}(2), 103--108.
+\newblock {PMID:} 18271855.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18271855}
+
+\bibitem[{Hajcak et~al.(2011)Hajcak, Weinberg, MacNamara, \&
+  Foti}]{ch16_oxford_2011}
+Hajcak, G., Weinberg, A., MacNamara, A., \& Foti, D. (2011).
+\newblock Erps and the study of emotion.
+\newblock In S.~J. Luck, \& E.~S. Kappenman (Eds.), {\em The Oxford Handbook of
+  Event-Related Potential Components\/}, chap.~16, (pp. 441--472). Oxford
+  University Press, USA.
+
+\bibitem[{Ioannidis(2005)}]{ioannidis_why_2005}
+Ioannidis, J. P.~A. (2005).
+\newblock Why most published research findings are false.
+\newblock {\em {PLoS} Medicine\/}, {\em 2\/}(8), e124.
+\newline\urlprefix\url{http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124}
+
+\bibitem[{Jennings \& Horn(2011)}]{jennings_publication_2011}
+Jennings, R.~G., \& Horn, J.~D. (2011).
+\newblock Publication bias in neuroimaging research: Implications for
+  meta-analyses.
+\newblock {\em Neuroinformatics\/}, {\em 10\/}(1), 67--80.
+\newline\urlprefix\url{http://www.springerlink.com/index/10.1007/s12021-011-9125-y}
+
+\bibitem[{Leue et~al.(2012)Leue, Lange, \& Beauducel}]{leue_modulation_2012}
+Leue, A., Lange, S., \& Beauducel, A. (2012).
+\newblock Modulation of the conflict monitoring intensity: The role of aversive
+  reinforcement, cognitive demand, and trait-{BIS}.
+\newblock {\em Cognitive, Affective, \& Behavioral Neuroscience\/}, {\em
+  12\/}(2), 287--307.
+\newline\urlprefix\url{http://www.springerlink.com/index/10.3758/s13415-012-0086-x}
+
+\bibitem[{Luck(2005)}]{luck_introduction_2005}
+Luck, S.~J. (2005).
+\newblock {\em An Introduction to the Event-Related Potential Technique\/}.
+\newblock Cambridge, Mass.: {MIT} Press.
+
+\bibitem[{{Open Science Collaboration}(2012)}]{osc_open_2012}
+{Open Science Collaboration} (2012).
+\newblock An open, large-scale, collaborative effort to estimate the
+  reproducibility of psychological science.
+\newblock {\em Perspectives on Psychological Science\/}, {\em 7\/}(6),
+  657--660.
+\newline\urlprefix\url{http://pps.sagepub.com/lookup/doi/10.1177/1745691612462588}
+
+\bibitem[{Taubes(1995)}]{taubes_epidemiology_1995}
+Taubes, G. (1995).
+\newblock Epidemiology faces its limits.
+\newblock {\em Science {(New} York, {N.Y.)}\/}, {\em 269\/}(5221), 164--169.
+\newblock {PMID:} 7618077.
+
+\bibitem[{Van~Horn \& Gazzaniga(2012)}]{van_horn_why_2012}
+Van~Horn, J.~D., \& Gazzaniga, M.~S. (2012).
+\newblock Why share data? lessons learned from the {fMRIDC}.
+\newblock {\em {NeuroImage}\/}.
+\newblock {PMID:} 23160115.
+
+\bibitem[{Weinberg et~al.(2011)Weinberg, Riesel, \&
+  Hajcak}]{weinberg_integrating_2011}
+Weinberg, A., Riesel, A., \& Hajcak, G. (2011).
+\newblock Integrating multiple perspectives on error-related brain activity:
+  The {ERN} as a neural indicator of trait defensive reactivity.
+\newblock {\em Motivation and Emotion\/}, {\em 36\/}(1), 84--100.
+\newline\urlprefix\url{http://www.springerlink.com/index/10.1007/s11031-011-9269-y}
+
+\end{thebibliography}
