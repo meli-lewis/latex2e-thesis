@@ -1,0 +1,14 @@
+*.pdf
+*.png
+*.ltx
+*.def
+*.zip
+*.gz
+*.toc
+*.lof
+*.log
+*.lot
+*.cfg
+*.aux
+*.eps
+
