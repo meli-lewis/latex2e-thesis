@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{47}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -17,12 +17,33 @@ Aron, A.~R., Robbins, T.~W., \& Poldrack, R.~A. (2004).
 \newblock {\em Trends in Cognitive Sciences\/}, {\em 8\/}(4), 170--177.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S1364661304000531}
 
-\bibitem[{Bieling et~al.(1998)Bieling, Antony, \& Swinson}]{bieling_state_1998}
+\bibitem[{Benkler(2003)}]{benkler_freedom_2003}
+Benkler, Y. (2003).
+\newblock Freedom in the commons: Towards a political economy of information.
+\newblock {\em Duke Law Journal\/}, {\em 52\/}(6), 1245--1276.
+\newline\urlprefix\url{http://www.jstor.org/stable/1373170}
+
+\bibitem[{Bieling et~al.(1998)Bieling, Antony, \&
+  Swinson}]{bieling_state--trait_1998}
 Bieling, P.~J., Antony, M.~M., \& Swinson, R.~P. (1998).
 \newblock The state--trait anxiety inventory, trait version: structure and
   content re-examined.
 \newblock {\em Behaviour Research and Therapy\/}, {\em 36\/}(7-8), 777--788.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0005796798000230}
+
+\bibitem[{Bj{\"o}rk et~al.(2010)Bj{\"o}rk, Welling, Laakso, Majlender, Hedlund,
+  \& Guðnason}]{bjork_open_2010}
+Bj{\"o}rk, B.-C., Welling, P., Laakso, M., Majlender, P., Hedlund, T., \&
+  Guðnason, G. (2010).
+\newblock Open access to the scientific journal literature: Situation 2009.
+\newblock {\em {PLoS} {ONE}\/}, {\em 5\/}(6), e11273.
+\newline\urlprefix\url{http://dx.plos.org/10.1371/journal.pone.0011273}
+
+\bibitem[{Bohannon(2013)}]{bohannon_psychologists_2013}
+Bohannon, J. (2013).
+\newblock Psychologists launch a bare-all research initiative.
+\newblock
+  {\url{http://news.sciencemag.org/scienceinsider/2013/03/psychologists-launch-a-bare-all-.html}}.
 
 \bibitem[{Botvinick(2007)}]{botvinick_conflict_2007}
 Botvinick, M.~M. (2007).
@@ -38,11 +59,17 @@ Bush, G., Luu, P., \& Posner, M.~I. (2000).
 \newblock {\em Trends in Cognitive Sciences\/}, {\em 4\/}(6), 215--222.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S1364661300014832}
 
-\bibitem[{Carpenter(2012)}]{carpenter_psychology_2012}
+\bibitem[{Carpenter(2012)}]{carpenter_psychologys_2012}
 Carpenter, S. (2012).
 \newblock Psychology's bold initiative.
 \newblock {\em Science\/}, {\em 335\/}(6076), 1558--1561.
 \newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.335.6076.1558}
+
+\bibitem[{Casadesus-Masanell \& Llanes(2011)}]{casadesus-masanell_mixed_2011}
+Casadesus-Masanell, R., \& Llanes, G. (2011).
+\newblock Mixed source.
+\newblock {\em Management Science\/}, {\em 57\/}(7), 1212--1230.
+\newline\urlprefix\url{http://mansci.journal.informs.org/cgi/doi/10.1287/mnsc.1110.1353}
 
 \bibitem[{Corr(2004)}]{corr_reinforcement_2004}
 Corr, P.~J. (2004).
@@ -50,6 +77,24 @@ Corr, P.~J. (2004).
 \newblock {\em Neuroscience and biobehavioral reviews\/}, {\em 28\/}(3),
   317--332.
 \newblock {PMID:} 15225974.
+
+\bibitem[{Dingley(2005)}]{dingley_periodical_2005}
+Dingley, B. (2005).
+\newblock U.s. periodical prices - 2005.
+\newblock
+  {\url{http://www.ala.org/alcts/sites/ala.org.alcts/files/content/resources/collect/serials/ppi/05usppi.pdf}}.
+
+\bibitem[{Dowling(2012)}]{dowling_apple_2012}
+Dowling, S. (2012).
+\newblock Apple reports fourth quarter results.
+\newblock
+  {\url{http://www.apple.com/pr/library/2012/10/25Apple-Reports-Fourth-Quarter-Results.html}}.
+
+\bibitem[{Elsevier(2013)}]{reed_2013}
+Elsevier, R. (2013).
+\newblock Reed elsevier 2012 results.
+\newblock
+  {\url{http://www.reedelsevier.com/mediacentre/pressreleases/2013/Pages/reed-elsevier-2012-results.aspx}}.
 
 \bibitem[{Endler \& Kocovski(2001)}]{endler_state_2001}
 Endler, N.~S., \& Kocovski, N.~L. (2001).
@@ -66,11 +111,31 @@ Falkenstein, M., Hohnsbein, J., Hoormann, J., \& Blanke, L. (1991).
   78\/}(6), 447--455.
 \newblock {PMID:} 1712280.
 
+\bibitem[{Fanelli(2011)}]{fanelli_negative_2011}
+Fanelli, D. (2011).
+\newblock Negative results are disappearing from most disciplines and
+  countries.
+\newblock {\em Scientometrics\/}, {\em 90\/}(3), 891--904.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s11192-011-0494-7}
+
 \bibitem[{Fang \& Casadevall(2011)}]{fang_retracted_2011}
 Fang, F.~C., \& Casadevall, A. (2011).
 \newblock Retracted science and the retraction index.
 \newblock {\em Infection and Immunity\/}, {\em 79\/}(10), 3855--3859.
 \newline\urlprefix\url{http://iai.asm.org/cgi/doi/10.1128/IAI.05661-11}
+
+\bibitem[{Frank \& Saxe(2012)}]{frank_teaching_2012}
+Frank, M.~C., \& Saxe, R. (2012).
+\newblock Teaching replication.
+\newblock {\em Perspectives on Psychological Science\/}, {\em 7\/}(6),
+  600--604.
+\newline\urlprefix\url{http://pps.sagepub.com/lookup/doi/10.1177/1745691612460686}
+
+\bibitem[{Gad-el Hak(2004)}]{gad-el-hak_publish_2004}
+Gad-el Hak, M. (2004).
+\newblock Publish or {Perish---An} ailing enterprise?
+\newblock {\em Physics Today\/}, {\em 57\/}(3), 61.
+\newline\urlprefix\url{http://link.aip.org/link/PHTOAD/v57/i3/p61/s1&Agg=doi}
 
 \bibitem[{Gratton et~al.(1983)Gratton, Coles, \& Donchin}]{gratton_new_1983}
 Gratton, G., Coles, M.~G., \& Donchin, E. (1983).
@@ -79,13 +144,14 @@ Gratton, G., Coles, M.~G., \& Donchin, E. (1983).
   55\/}(4), 468--484.
 \newblock {PMID:} 6187540.
 
-\bibitem[{Grillon et~al.(1993)Grillon, Ameli, Foot, \&
-  Davis}]{grillon_fear_1993}
-Grillon, C., Ameli, R., Foot, M., \& Davis, M. (1993).
-\newblock Fear-potentiated startle: relationship to the level of state/trait
-  anxiety in healthy subjects.
-\newblock {\em Biological psychiatry\/}, {\em 33\/}(8-9), 566--574.
-\newblock {PMID:} 8329489.
+\bibitem[{Gr{\"o}s et~al.(2007)Gr{\"o}s, Antony, Simms, \&
+  {McCabe}}]{gros_psychometric_2007}
+Gr{\"o}s, D.~F., Antony, M.~M., Simms, L.~J., \& {McCabe}, R.~E. (2007).
+\newblock Psychometric properties of the state-trait inventory for cognitive
+  and somatic anxiety ({STICSA):} comparison to the state-trait anxiety
+  inventory ({STAI).}
+\newblock {\em Psychological Assessment\/}, {\em 19\/}(4), 369--381.
+\newline\urlprefix\url{http://doi.apa.org/getdoi.cfm?doi=10.1037/1040-3590.19.4.369}
 
 \bibitem[{Hajcak(2012)}]{hajcak_what_2012}
 Hajcak, G. (2012).
@@ -103,19 +169,23 @@ Hajcak, G., \& Foti, D. (2008).
 \newblock {PMID:} 18271855.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18271855}
 
-\bibitem[{Hajcak et~al.(2011)Hajcak, Weinberg, MacNamara, \&
-  Foti}]{ch16_oxford_2011}
-Hajcak, G., Weinberg, A., MacNamara, A., \& Foti, D. (2011).
-\newblock Erps and the study of emotion.
-\newblock In S.~J. Luck, \& E.~S. Kappenman (Eds.), {\em The Oxford Handbook of
-  Event-Related Potential Components\/}, chap.~16, (pp. 441--472). Oxford
-  University Press, USA.
-
 \bibitem[{Ioannidis(2005)}]{ioannidis_why_2005}
 Ioannidis, J. P.~A. (2005).
 \newblock Why most published research findings are false.
 \newblock {\em {PLoS} Medicine\/}, {\em 2\/}(8), e124.
 \newline\urlprefix\url{http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124}
+
+\bibitem[{Ioannidis(2013)}]{ioannidis_this_2013}
+Ioannidis, J. P.~A. (2013).
+\newblock This i believe in genetics: discovery can be a nuisance, replication
+  is science, implementation matters.
+\newblock {\em Frontiers in Genetics\/}, {\em 4\/}.
+\newline\urlprefix\url{http://www.frontiersin.org/Statistical_Genetics_and_Methodology/10.3389/fgene.2013.00033/full}
+
+\bibitem[{Issa \& Maloney(2011)}]{rwa_2011}
+Issa, D., \& Maloney, C.~B. (2011).
+\newblock Research works act, h.r. 3699,112th cong., 1st sess. (2011).
+\newblock {\url{http://hdl.loc.gov/loc.uscongress/legislation.112hr3699}}.
 
 \bibitem[{Jennings \& Horn(2011)}]{jennings_publication_2011}
 Jennings, R.~G., \& Horn, J.~D. (2011).
@@ -123,6 +193,21 @@ Jennings, R.~G., \& Horn, J.~D. (2011).
   meta-analyses.
 \newblock {\em Neuroinformatics\/}, {\em 10\/}(1), 67--80.
 \newline\urlprefix\url{http://www.springerlink.com/index/10.1007/s12021-011-9125-y}
+
+\bibitem[{John et~al.(2012)John, Loewenstein, \& Prelec}]{john_measuring_2012}
+John, L.~K., Loewenstein, G., \& Prelec, D. (2012).
+\newblock Measuring the prevalence of questionable research practices with
+  incentives for truth telling.
+\newblock {\em Psychological Science\/}, {\em 23\/}(5), 524--532.
+\newline\urlprefix\url{http://pss.sagepub.com/lookup/doi/10.1177/0956797611430953}
+
+\bibitem[{Laakso et~al.(2011)Laakso, Welling, Bukvova, Nyman, Bj{\"o}rk, \&
+  Hedlund}]{laakso_development_2011}
+Laakso, M., Welling, P., Bukvova, H., Nyman, L., Bj{\"o}rk, B.-C., \& Hedlund,
+  T. (2011).
+\newblock The development of open access journal publishing from 1993 to 2009.
+\newblock {\em {PLoS} {ONE}\/}, {\em 6\/}(6), e20961.
+\newline\urlprefix\url{http://dx.plos.org/10.1371/journal.pone.0020961}
 
 \bibitem[{Leue et~al.(2012)Leue, Lange, \& Beauducel}]{leue_modulation_2012}
 Leue, A., Lange, S., \& Beauducel, A. (2012).
@@ -132,12 +217,42 @@ Leue, A., Lange, S., \& Beauducel, A. (2012).
   12\/}(2), 287--307.
 \newline\urlprefix\url{http://www.springerlink.com/index/10.3758/s13415-012-0086-x}
 
+\bibitem[{Lin(2012)}]{lin_cracking_2012}
+Lin, T. (2012).
+\newblock Cracking open the scientific process.
+\newblock
+  {\url{http://www.nytimes.com/2012/01/17/science/open-science-challenges-journal-tradition-with-web-collaboration.html}}.
+
 \bibitem[{Luck(2005)}]{luck_introduction_2005}
 Luck, S.~J. (2005).
-\newblock {\em An Introduction to the Event-Related Potential Technique\/}.
+\newblock {\em An Introduction to the event-related potential technique\/}.
 \newblock Cambridge, Mass.: {MIT} Press.
 
-\bibitem[{{Open Science Collaboration}(2012)}]{osc_open_2012}
+\bibitem[{Luck \& Kappenman(2012)}]{luck_oxford_2012}
+Luck, S.~J., \& Kappenman, E.~S. (2012).
+\newblock {\em The Oxford handbook of event-related potential components\/}.
+\newblock New York: Oxford University Press.
+
+\bibitem[{Nelson(2009)}]{nelson_data_2009}
+Nelson, B. (2009).
+\newblock Data sharing: Empty archives.
+\newblock {\em Nature\/}, {\em 461\/}(7261), 160--163.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/461160a}
+
+\bibitem[{Nielsen(2012)}]{nielsen_reinventing_2012}
+Nielsen, M.~A. (2012).
+\newblock {\em Reinventing discovery : the new era of networked science\/}.
+\newblock Princeton, {N.J.}: Princeton University Press.
+
+\bibitem[{{O'Beirne} \& Patuzzi(1999)}]{obeirne_basic_1999}
+{O'Beirne}, G.~A., \& Patuzzi, R.~B. (1999).
+\newblock Basic properties of the sound-evoked post-auricular muscle response
+  ({PAMR)}.
+\newblock {\em Hearing research\/}, {\em 138\/}(1-2), 115--132.
+\newblock {PMID:} 10575120.
+
+\bibitem[{{Open Science
+  Collaboration}(2012)}]{open_science_collaboration_open_2012}
 {Open Science Collaboration} (2012).
 \newblock An open, large-scale, collaborative effort to estimate the
   reproducibility of psychological science.
@@ -145,17 +260,48 @@ Luck, S.~J. (2005).
   657--660.
 \newline\urlprefix\url{http://pps.sagepub.com/lookup/doi/10.1177/1745691612462588}
 
+\bibitem[{Panitch \& Michalak(2005)}]{panitch_serials_2005}
+Panitch, J.~M., \& Michalak, S. (2005).
+\newblock The serials crisis.
+\newblock
+  {\url{http://www.unc.edu/scholcomdig/whitepapers/panitch-michalak.html}}.
+
+\bibitem[{Prinz et~al.(2011)Prinz, Schlange, \& Asadullah}]{prinz_believe_2011}
+Prinz, F., Schlange, T., \& Asadullah, K. (2011).
+\newblock Believe it or not: how much can we rely on published data on
+  potential drug targets?
+\newblock {\em Nature Reviews Drug Discovery\/}, {\em 10\/}(9), 712--712.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/nrd3439-c1}
+
+\bibitem[{Riesel et~al.(2013)Riesel, Weinberg, Moran, \&
+  Hajcak}]{riesel_press_2013}
+Riesel, A., Weinberg, A., Moran, T., \& Hajcak, G. (2013).
+\newblock (in press). time course of error-potentiated startle and its
+  relationship to error-related brain activity.
+\newblock {\em International Journal of Psychophysiology\/}.
+
+\bibitem[{Sample(2012)}]{sample_harvard_2012}
+Sample, I. (2012).
+\newblock Harvard university says it can't afford journal publishers' prices.
+\newblock
+  {\url{http://www.guardian.co.uk/science/2012/apr/24/harvard-university-journal-publishers-prices}}.
+
+\bibitem[{Stallman(1993)}]{stallman_gnu_1993}
+Stallman, R. (1993).
+\newblock The gnu manifesto.
+\newblock {\url{http://www.gnu.org/gnu/manifesto.html}}.
+
 \bibitem[{Taubes(1995)}]{taubes_epidemiology_1995}
 Taubes, G. (1995).
 \newblock Epidemiology faces its limits.
-\newblock {\em Science {(New} York, {N.Y.)}\/}, {\em 269\/}(5221), 164--169.
+\newblock {\em Science (New York, {N.Y.)}\/}, {\em 269\/}(5221), 164--169.
 \newblock {PMID:} 7618077.
 
-\bibitem[{Van~Horn \& Gazzaniga(2012)}]{van_horn_why_2012}
-Van~Horn, J.~D., \& Gazzaniga, M.~S. (2012).
-\newblock Why share data? lessons learned from the {fMRIDC}.
-\newblock {\em {NeuroImage}\/}.
-\newblock {PMID:} 23160115.
+\bibitem[{Van~Noorden(2011)}]{van_noorden_science_2011}
+Van~Noorden, R. (2011).
+\newblock Science publishing: The trouble with retractions.
+\newblock {\em Nature\/}, {\em 478\/}(7367), 26--28.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/478026a}
 
 \bibitem[{Weinberg et~al.(2011)Weinberg, Riesel, \&
   Hajcak}]{weinberg_integrating_2011}
@@ -164,5 +310,10 @@ Weinberg, A., Riesel, A., \& Hajcak, G. (2011).
   The {ERN} as a neural indicator of trait defensive reactivity.
 \newblock {\em Motivation and Emotion\/}, {\em 36\/}(1), 84--100.
 \newline\urlprefix\url{http://www.springerlink.com/index/10.1007/s11031-011-9269-y}
+
+\bibitem[{Wu(2011)}]{wu_master_2011}
+Wu, T. (2011).
+\newblock {\em The master switch: the rise and fall of information empires\/}.
+\newblock New York: Vintage Books.
 
 \end{thebibliography}

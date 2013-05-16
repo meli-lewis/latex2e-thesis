@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage{fontspec,xltxtra}
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont[Mapping=tex-text]{Minion Pro}
+\begin{document}
+     \title{Report to the Reproducibility Project}
+Replication of "Errors Are Aversive" by Greg Hajcak \& Dan Foti\\
+(2008, \textit{Psychological Science})\\
+      
+      Melissa Lewis and Michael Pitts\\
+      mlewis@reed.edu\\
+      mpitts@reed.edu\\
+      \section{Introduction}
+      The error-related negativity (ERN) is a negative-going event-related potential component that peaks very quickly after a commission error, and owing to its modulation by affective state and its maximal location being over the anterior cingulate cortex, could be functionally related to a defensive motivational state. That is, it may have some relationship to physiological responses associated with the organism being in danger. The human startle response is a specific measure of defensive state and is often measured by blink response at the orbicularis muscle just below the eye. If such a stable measure of defensive motivation is correlated to the ERN in magnitude, it suggests the latter's functional role in defensive motivation.
+      
+      The original experiment demonstrated both that people's startle response to a loud auditory stimulus is greater when they have just committed an error and that the magnitude of this response is correlated to the amplitude of the ERN.
+      \section{Methods}
+      \subsection{Power Analysis}
+      Because the main finding of the original study was a correlation of .38, p < .05, one-tailed, and I am to meet a power of .8, I will run 42 subjects.
+      \subsection{Planned Sample}
+      Sample will be 18-35 years old, with normal or corrected-to-normal vision and no history of neurological disorders.
+      \subsection{Materials}
+      ``Continuous electroencephalographic (EEG) and electromyographic (EMG) activity was recorded using an ActiveTwo head cap and the ActiveTwo BioSemi system (BioSemi, Amsterdam, The Netherlands)."
+      
+     We used the EasyCap electrode cap and BrainAmps Standard system (Brain Products, Gilding, Germany).
+      
+      ``Recordings were taken from 64 scalp electrodes based on the ten-twenty system, as well as from two electrodes placed on the left and right mastoids. The electro- oculogram (EOG) generated from blinks and eye movements was recorded from four facial electrodes: two approximately 1 cm above and below the participantÕs right eye, one approximately 1 cm to the left of the left eye, and one approximately 1 cm to the right of the right eye."
+      
+      We used caps with 96 scalp electrodes at equidistant positions as well as from two reference electrodes placed on the left and right mastoids. EOG was recorded identically. 
+      
+      ``The startle response was measured with two electrodes placed approximately 12 mm apart under the participantÕs left eye on the obicularis muscle. As per BioSemiÕs design, the ground electrode during acquisition was formed by the Common Mode Sense active electrode and the Driven Right Leg passive electrode. All bioelectric signals were digitized on a laboratory microcomputer using ActiView software (BioSemi). Sampling was at 1024 Hz."
+      
+     	EMG electrodes were placed under the eye and 12mm apart. Though the original article did not describe their placement except in reference to the other, the medial electrode was placed under the pupil and the lateral electrode was placed 12mm to the right of it, as per Hajcak's directions in an email correspondence. His directions about vertical placement of the electrodes were to feel the orbicularis muscle for where the blink is maximal. All bioelectric signals were digitized on a laboratory microcomputer using Recorder software (Brain Products). Sampling was at the rate allowable by the software, 1000 Hz.
+  
+      \subsection{Analysis Plan}
+      Analysis was identical to that of the original study except in the software used and in the sampling rate (1000 Hz rather than 1024 Hz).\\
+Offline analysis was performed using Brain Vision Analyzer software (Brain Products, Gilching, Germany). Data was referenced to the numeric mean of the mastoids and band-pass filtered with cutoffs of 0.1 and 30 Hz. EEG was segmented for each trial, beginning 200 ms before response and continuing for 800 ms. It was corrected for blinks and eye movements using EMCP \citep{gratton_new_1983}.  The ERN was defined as the average activity in a 0- to 100-ms window following response onset on error trials, but it generally peaks approximately 50 ms following commission of an error. The ERN was statistically evaluated using R, with Greenhouse-Geisser correction applied to p values associated with multiple degrees of freedom, repeated measures comparisons.\\
+Startle response EMG data will be band-pass filtered (28Ð512 Hz; 24 dB/ octave roll-off), rectified, then low-pass filtered at 30 Hz (24 dB/ octave) and baseline-corrected. Response magnitude and latencies will be quantified according to a peak in the 20- to 120-ms window after the startle probe was presented. It will be statistically evaluated with Greenhouse-Geisser correction applied to p values associated with multiple degrees of freedom, repeated measures comparisons. However, it was studied with R rather than with SPSS as in the original study.
+Participants were excluded only if their averages following correction contain artifacts of high reference or ground impedance and/or facial movement disrupting a potential signal.
+      \subsection{Differences from Original Study}
+      Differences in materials were outlined in the above materials section. The original article did not specify an age range, but the age range for this study was 18-35. The original author analyzed data using SPSS, while this data was analyzed with R. The original article described the auditory stimulus as being 105dB, where in this study the measurement of decibels only went as high as 99dB.
+\end{document}

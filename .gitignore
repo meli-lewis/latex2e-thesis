@@ -11,4 +11,6 @@
 *.cfg
 *.aux
 *.eps
+pdftex-1.40.10/*
+mlewis\ thesis\ versions/*
 
